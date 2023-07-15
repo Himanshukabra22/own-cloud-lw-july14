@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fa60a2b.css",
+    "main.js": "/static/js/main.77af2def.js",
+    "static/media/GuiClick.svg": "/static/media/GuiClick.f4d71731e3cb4a8e73ae65c4f64a0b28.svg",
+    "static/media/docker1.svg": "/static/media/docker1.32c4c0a2165b120894608c8926af7df5.svg",
+    "index.html": "/index.html",
+    "static/media/TerminalIcon.svg": "/static/media/TerminalIcon.d0d508a1735ea5ba80dd126258ea5184.svg",
+    "main.9fa60a2b.css.map": "/static/css/main.9fa60a2b.css.map",
+    "main.77af2def.js.map": "/static/js/main.77af2def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa60a2b.css",
+    "static/js/main.77af2def.js"
+  ]
+}
