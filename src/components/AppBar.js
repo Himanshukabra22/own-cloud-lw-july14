@@ -25,7 +25,7 @@ const AppBarComp = () => {
                 sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}
             >
                 <Toolbar>
-                    <Typography variant="h4" component="div" noWrap sx={{ flexGrow: 1 }}>Team Cloudy Penguins - Lets integrate together🎉</Typography>
+                    <Typography variant="h4" component="div" noWrap sx={{ flexGrow: 1 }}>Team Cloudy Penguins - Lets integrate togetherrr🎉</Typography>
                     <Tooltip title="Source code">
                         <IconButton size='large' color='inherit' sx={{ mr: 2 }} onClick={gotoGitHub}>
                             <GitHubIcon />
