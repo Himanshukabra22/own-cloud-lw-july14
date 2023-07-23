@@ -191,7 +191,7 @@ const OthersPart = (props) => {
             window.open(url, "_blank");
         }
         if (site === "sinb") {
-            const url = "https://3.108.219.121:4200/";
+            const url = "https:///54.144.243.247:4200/";
             window.open(url, "_blank");
         }
     }
