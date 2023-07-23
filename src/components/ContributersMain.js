@@ -13,7 +13,7 @@ const ContributersMain = () => {
                     gridTemplateColumns: 'repeat(2)'
                 }}
             >
-                <ContributerBox name="Team Cloudy Penguins" />
+                <ContributerBox name="Team Penguins " />
 
             </Box>
         </Box>
