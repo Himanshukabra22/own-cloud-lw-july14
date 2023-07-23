@@ -179,7 +179,7 @@ const OthersPart = (props) => {
 
     const openWeb2 = (site) => {
         if (site === "senti") {
-            const url = "http://13.232.45.0:5000/";
+            const url = "http://127.0.0.1:5501/chatbot/index.html";
             window.open(url, "_blank");
         }
         if (site === "aws") {
