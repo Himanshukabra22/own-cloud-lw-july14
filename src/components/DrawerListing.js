@@ -183,7 +183,7 @@ const OthersPart = (props) => {
             window.open(url, "_blank");
         }
         if (site === "aws") {
-            const url = "http://3.110.51.214/cgi-bin/akriti.py";
+            const url = "http://13.234.186.176/cgi-bin/abhishek.py";
             window.open(url, "_blank");
         }
         if (site === "linux") {
@@ -205,7 +205,7 @@ const OthersPart = (props) => {
                     <ListItemIcon>
                         {/* <SvgIcon component={Termi} inheritViewBox></SvgIcon> */}
                     </ListItemIcon>
-                    <ListItemText primary="Sentimental Analysis" />
+                    <ListItemText primary="Chatbot" />
                 </ListItemButton>
                 <Divider sx={{ marginLeft: 5 }} />
 
